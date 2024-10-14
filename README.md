@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Full Stack Devloper who loves games. I am native English speaker, who can speak Bahasa Indonesia, and a bit of Spanish.
+I am a Full Stack Devloper, game lover, and a native English speaker, who can speak Bahasa Indonesia, and a bit of Spanish.
 
 - 🔭 I’m currently working on my portfolio at https://github.com/CalebHasch/Calebs-Portfolio-Frontend
 - 🌱 I’m currently learning MongoDB
